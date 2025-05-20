@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BotresumeAnalyize
 <<<<<<< HEAD
 I developed a Resume Analyzer web application using the (Express.js, React.js, and Node.js) to automate the process of screening resumes against job descriptions. The application allows users to upload resumes and job descriptions in PDF or DOCX format. Using advanced parsing libraries, the text content is extracted from the uploaded files. The core of the project involves leveraging large language models (LLMs) such as GROQ_API or similar AI models to analyze the resume content. The AI model compares the skills, experience, and qualifications mentioned in resumes with the requirements in the job descriptions. It then generates a relevance score to rank candidates based on how well they fit the job criteria. The frontend, built with React, displays the analysis results clearly, highlighting matched skills and providing detailed feedback. The backend, powered by Node.js and Express, handles file uploads, communicates with the AI model, and sends the processed data to the frontend. This automated system significantly reduces the manual effort involved in shortlisting candidates and enhances hiring accuracy. The project demonstrates the integration of AI with traditional web development frameworks to solve real-world HR challenges.
@@ -35,3 +36,6 @@ Multi-File Upload: Efficiently process multiple resumes in one go.
 Intuitive User Interface: Easy-to-use frontend for seamless interaction.
 Scalable Backend: Node.js ensures robust and responsive processing.
 >>>>>>> 66b568e311c74dedc3379c17dd617eaf04676cfc
+=======
+# AIResume-BOT
+>>>>>>> 547f692b7f18318bd7b8e0705b73d99948faab8b
