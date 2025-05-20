@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@langchain/core": "^0.3.56",
+    "@langchain/google-genai": "^0.2.9",
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "groq-sdk": "^0.22.0",
+    "langchain": "^0.3.26",
+    "mammoth": "^1.9.0",
+    "multer": "^2.0.0",
+    "openai": "^3.3.0",
+    "pdf-parse": "^1.1.1"
+  }
+}
